@@ -11,7 +11,6 @@ Location
 
 We will be looking at the optimum location, time, day and month to go UFO hunting.
 
-<br>
 
 
 The following are some of the data techniques I used in the project:
