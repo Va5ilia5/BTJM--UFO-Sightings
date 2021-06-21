@@ -1,4 +1,4 @@
-# BTYM--UFO-Sightings
+# UFO-Sightings
 
 An increase in news articles, particularly on Unidentified Flying Objects, or UFOs. While we wait to comment, the Pentagon's UAP Task Force is anticipated to issue an unclassified version of the study sometime in late June 2021.
 
