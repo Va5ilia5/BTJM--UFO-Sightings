@@ -4,11 +4,10 @@ An increase in news articles, particularly on Unidentified Flying Objects, or UF
 
 We will look at the steady increase of UFO sightings in USA and Canada from the data;
 
-date and time (1400 to 2021)
-comments on the UFO
-Shape of UFO
-Location
-
+- date and time (1400 to 2021)
+- comments on the UFO
+- Shape of UFO
+- Location
 We will be looking at the optimum location, time, day and month to go UFO hunting.
 
 
