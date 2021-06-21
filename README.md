@@ -21,11 +21,11 @@ The following are some of the data techniques I used in the project:
 - Practical Statistics (i.e. applying inferential statistics and probability to real-world scenarios, like analyzing A/B tests.)
 - SQL for Data Analysis
 - Data Visualization to draw meaningful conclusions
-- 
+
 ##Technical Skills utilized
--Python
--Data Analysis/Wrangling libraries (Numpy, Pandas)
--Data Visualization libraries (Matplotlib, Seaborn)
--Microsoft Excel
--Jupyter Notebooks
--SQL
+- Python
+- Data Analysis/Wrangling libraries (Numpy, Pandas)
+- Data Visualization libraries (Matplotlib, Seaborn)
+- Microsoft Excel
+- Jupyter Notebooks
+- SQL
