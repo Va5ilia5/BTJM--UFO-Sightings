@@ -13,7 +13,7 @@ We will be looking at the optimum location, time, day and month to go UFO huntin
 
 
 
-##The following are some of the data techniques I used in the project:
+### The following are some of the data techniques I used in the project:
 
 - Exploratory Data Analysis (EDA)
 - Data Wrangling
@@ -23,7 +23,7 @@ We will be looking at the optimum location, time, day and month to go UFO huntin
 - SQL for Data Analysis
 - Data Visualization to draw meaningful conclusions
 
-##Technical Skills utilized
+###Technical Skills utilized
 - Python
 - Data Analysis/Wrangling libraries (Numpy, Pandas)
 - Data Visualization libraries (Matplotlib, Seaborn)
